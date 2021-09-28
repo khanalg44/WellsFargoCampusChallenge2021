@@ -42,3 +42,4 @@ Before doing any data visualization we set $20\%$ of the data as a test data to 
 Previous Winners' git repo
 - [2018 Winner](https://github.com/karlroush/WF_CAC_2018)
 - [2019 Winner](https://github.com/karlroush/WF_CAC_2019)
+- [Winner Kaggle challenge for Fraud Detection ](https://developer.nvidia.com/blog/leveraging-machine-learning-to-detect-fraud-tips-to-developing-a-winning-kaggle-solution/)
